@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Lazo/Documents/GitHub/factors-and-factorials-160-davidalejandrolazopampa/main.cpp
+iostream
+-
+iomanip
+-
+
